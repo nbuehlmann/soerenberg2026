@@ -1,18 +1,18 @@
 ---
-title: "No Sidebar"
-description: "All content, all the time."
+title: "Keine Seitenleiste"
+description: "Der gesamte Inhalt, die ganze Zeit."
 menu: main
 weight: 80
 image: images/banner.jpg
-image_alt: "Hello!"
-tags: ["examples", "content"]
+image_alt: "Hallo!"
+tags: ["beispiele", "inhalt"]
 ---
 Phasellus quam turpis, feugiat sit amet ornare in, hendrerit in lectus.
 Praesent semper mod quis eget mi. Etiam eu ante risus. Aliquam erat volutpat.
 Aliquam luctus et mattis lectus sit amet pulvinar. Nam turpis nisi
 consequat etiam lorem ipsum dolor sit amet nullam.
 
-### And Yet Another Subheading
+### Und eine weitere Überschrift
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas ac quam risus, at tempus
 justo. Sed dictum rutrum massa eu volutpat. Quisque vitae hendrerit sem. Pellentesque lorem felis,
 ultricies a bibendum id, bibendum sit amet nisl. Mauris et lorem quam. Maecenas rutrum imperdiet

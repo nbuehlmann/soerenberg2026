@@ -1,23 +1,31 @@
 baseURL = "https://nbuehlmann.github.io/soerenberg2026/"
-languageCode = "en-us"
-title = "Arcana for Hugo"
+languageCode = "de-CH"
+timeZone = "Europe/Zurich"
+title = "Sörenberger OL Weekend"
 theme = "arcana"
 copyright = "© Untitled. All rights reserved"
+defaultContentLanguage = "de"
+defaultContentLanguageInSubdir = false
 
 [caches]
   [caches.images]
     dir = ':cacheDir/images'
 
-defaultContentLanguage = "en"
 [languages]
-    [languages.en]
-        languageName = "English"
-        weight = 1
     [languages.de]
         languageName = "Deutsch"
+        languageCode = 'de-CH'
+        disabled = false
+        weight = 1
+    [languages.en]
+        languageName = "English"
+        languageCode = 'en-US'
+        disabled = false
         weight = 2
-    [languages.es]
-        languageName = "Spanish"
+    [languages.fr]
+        languageName = "Français"
+        languageCode = 'fr-CH'
+        disabled = true
         weight = 3
 
 [taxonomies]

@@ -1,10 +1,10 @@
 ---
-title: Der sechste Post
-image: images/pic02.jpg
-date: "2020-01-06T00:00:00"
+title: The Fifth Thing
+image: images/pic01.jpg
+date: "2020-01-05T00:00:00"
 tags:
-  - beispiel
-  - duis neque
+  - example
+  - lorem ipsum
 ---
 Duis neque nisi, dapibus sed mattis et quis, nibh. Sed et dapibus nisl amet
 mattis, sed a rutrum accumsan sed. Suspendisse eu.

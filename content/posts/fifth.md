@@ -1,9 +1,9 @@
 ---
-title: The Fifth Thing
+title: Der fünfte Post
 image: images/pic01.jpg
 date: "2020-01-05T00:00:00"
 tags:
-  - example
+  - beispiel
   - lorem ipsum
 ---
 Duis neque nisi, dapibus sed mattis et quis, nibh. Sed et dapibus nisl amet

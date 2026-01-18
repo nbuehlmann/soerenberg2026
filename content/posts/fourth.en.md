@@ -1,10 +1,10 @@
 ---
-title: Der dritte Post
-image: images/pic03.jpg
-date: "2020-01-03T00:00:00"
+title: The Fourth Thing
+image: images/pic04.jpg
+date: "2020-01-04T00:00:00"
 tags:
-  - beispiel
-  - duis neque
+  - example
+  - lorem ipsum
 ---
 Duis neque nisi, dapibus sed mattis et quis, nibh. Sed et dapibus nisl amet
 mattis, sed a rutrum accumsan sed. Suspendisse eu.

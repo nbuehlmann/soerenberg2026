@@ -1,9 +1,9 @@
 ---
-title: Der zweite Post
-image: images/pic02.jpg
-date: "2020-01-02T00:00:00"
+title: The Third Thing
+image: images/pic03.jpg
+date: "2020-01-03T00:00:00"
 tags:
-  - beispiel
+  - example
   - duis neque
 ---
 Duis neque nisi, dapibus sed mattis et quis, nibh. Sed et dapibus nisl amet
