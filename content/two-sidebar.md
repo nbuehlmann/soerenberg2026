@@ -1,5 +1,5 @@
 ---
-title: "Zwei Seitenleisten"
+title: "Fotos aus dem Laufgelände"
 description: "Korrekt. Zwei Seitenleisten gleichzeitig."
 menu: main
 weight: 70

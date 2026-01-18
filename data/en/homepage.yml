@@ -1,43 +1,43 @@
 banner:
   enable: true
   image: "images/banner.jpg"
-  contents: "**Arcana:** _A responsive site template freebie by [HTML5 UP](https://html5up.net/)_"
+  contents: ""
   button:
-    contents: "Learn More"
+    contents: ""
     url: "#"
 items:
   - type: highlights
     items_per_row: 3
     items:
-    - title: This Is Important
-      icon: fa-paper-plane
+    - title: Ausschreibung
+      icon: fa-clipboard
       content: >
         Duis neque nisi, dapibus sed mattis et quis, nibh. Sed et dapibus nisl
         amet mattis, sed a rutrum accumsan sed. Suspendisse eu.
-    - title: Also Important
-      icon: fa-pencil-alt
+    - title: Weisungen
+      icon: fa-clipboard-list
       content: >
         Duis neque nisi, dapibus sed mattis et quis, nibh. Sed et dapibus nisl
         amet mattis, sed a rutrum accumsan sed. Suspendisse eu.
-    - title: Probably Important
-      icon: fa-wrench
+    - title: Startlisten
+      icon: fa-list-ol
       content: >
         Duis neque nisi, dapibus sed mattis et quis, nibh. Sed et dapibus nisl
         amet mattis, sed a rutrum accumsan sed. Suspendisse eu.
-  - type: heading
-    heading: A gigantic heading you can use for whatever
-    contents: With a much smaller subtitle hanging out just below it
-  - type: card
-    heading: But what's this page about?
-    contents: On this card I can give you some more information about the template, and how you can use it to create your own site. Look, there's an image!
-    image: images/metaimage.jpg
-    image_alt: "Image alternative text"
   - type: posts
-    #heading: Recent Posts
+    heading: Neuigkeiten
     content_type: posts
     max: 4
-  - type: cta
-    contents: Are you ready to continue your quest?
-    button:
-      contents: Insert Coin
-      url: "#"
+  # - type: cta
+  #   contents: Bist du bereit, deine Aufgabe fortzusetzen?
+  #   button:
+  #     contents: Münze einwerfen
+  #     url: "#"
+  # - type: heading
+  #   heading: Eine riesen Überschrift für was auch immer du willst
+  #   contents: Mit einem viel kleineren Untertitel direkt unterhalb
+  # - type: card
+  #   heading: Aber worum geht es auf dieser Seite überhaupt?
+  #   contents: Auf dieser Karte kann ich Euch mehr Informationen über das Template geben, und darüber, wie Ihr es nutzen könnte, um Eure eigene Seite zu erstellen. Schaut mal, da ist ein Bild!
+  #   image: images/metaimage.jpg
+  #   image_alt: "Alternativer Bildtext"

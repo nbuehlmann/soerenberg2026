@@ -1,5 +1,5 @@
 ---
-title: "Keine Seitenleiste"
+title: "JEC 2026"
 description: "Der gesamte Inhalt, die ganze Zeit."
 menu: main
 weight: 80

@@ -1,11 +1,8 @@
 ---
-title: "Linke Seitenleiste"
+title: "Ausschreibung"
 description: "Seitenleiste links, Inhalt rechts."
 menu: main
 weight: 50
-image: images/banner.jpg
-image_alt: "Hallo!"
-tags: ["beispiele", "inhalt", "seitenleiste"]
 sidebar_left: sidebar1
 ---
 Phasellus quam turpis, feugiat sit amet ornare in, hendrerit in lectus.

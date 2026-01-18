@@ -1,11 +1,10 @@
 ---
-title: "Rechte Seitenleiste"
+title: "Weisungen"
 description: "Seitenleiste rechts, Inhalt links."
 menu: main
 weight: 60
 image: images/banner.jpg
 image_alt: "Hallo!"
-tags: ["beispiele", "inhalt", "seitenleiste"]
 sidebar_right: sidebar1
 ---
 Phasellus quam turpis, feugiat sit amet ornare in, hendrerit in lectus.
