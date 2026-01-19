@@ -1,6 +1,6 @@
 ---
-title: "Ausschreibung"
-description: "Seitenleiste links, Inhalt rechts."
+title: "Invitation"
+description: "Hier folgt die Ausschreibung (English)."
 menu: main
 weight: 50
 sidebar_left: sidebar1
