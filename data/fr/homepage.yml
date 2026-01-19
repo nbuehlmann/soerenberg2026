@@ -9,35 +9,19 @@ items:
   - type: highlights
     items_per_row: 3
     items:
-    - title: Ausschreibung
+    - title: Invitation
       icon: fa-clipboard
       content: >
-        Duis neque nisi, dapibus sed mattis et quis, nibh. Sed et dapibus nisl
-        amet mattis, sed a rutrum accumsan sed. Suspendisse eu.
-    - title: Weisungen
+        [➡️ The invitation is online!](/invitation).
+    - title: Final details
       icon: fa-clipboard-list
       content: >
-        Duis neque nisi, dapibus sed mattis et quis, nibh. Sed et dapibus nisl
-        amet mattis, sed a rutrum accumsan sed. Suspendisse eu.
-    - title: Startlisten
+        The final details will be announced 2 weeks prior to the competition.
+    - title: Start lists
       icon: fa-list-ol
       content: >
-        Duis neque nisi, dapibus sed mattis et quis, nibh. Sed et dapibus nisl
-        amet mattis, sed a rutrum accumsan sed. Suspendisse eu.
+        The start lists will be published 1 week prior to the competition.
   - type: posts
-    heading: Neuigkeiten
+    heading: News
     content_type: posts
     max: 4
-  # - type: cta
-  #   contents: Bist du bereit, deine Aufgabe fortzusetzen?
-  #   button:
-  #     contents: Münze einwerfen
-  #     url: "#"
-  # - type: heading
-  #   heading: Eine riesen Überschrift für was auch immer du willst
-  #   contents: Mit einem viel kleineren Untertitel direkt unterhalb
-  # - type: card
-  #   heading: Aber worum geht es auf dieser Seite überhaupt?
-  #   contents: Auf dieser Karte kann ich Euch mehr Informationen über das Template geben, und darüber, wie Ihr es nutzen könnte, um Eure eigene Seite zu erstellen. Schaut mal, da ist ein Bild!
-  #   image: images/metaimage.jpg
-  #   image_alt: "Alternativer Bildtext"

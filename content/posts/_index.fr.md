@@ -1,5 +1,5 @@
 ---
-title: Posts
+title: Actualités
 menu: main
 weight: 20
 ---

@@ -12,7 +12,7 @@ items:
     - title: Ausschreibung
       icon: fa-clipboard
       content: >
-        [➡️ Die Ausschreibung ist online](/left-sidebar).
+        [➡️ Die Ausschreibung ist online](/invitation)
     - title: Weisungen
       icon: fa-clipboard-list
       content: >
@@ -25,16 +25,3 @@ items:
     heading: Neuigkeiten
     content_type: posts
     max: 4
-  # - type: cta
-  #   contents: Bist du bereit, deine Aufgabe fortzusetzen?
-  #   button:
-  #     contents: Münze einwerfen
-  #     url: "#"
-  # - type: heading
-  #   heading: Eine riesen Überschrift für was auch immer du willst
-  #   contents: Mit einem viel kleineren Untertitel direkt unterhalb
-  # - type: card
-  #   heading: Aber worum geht es auf dieser Seite überhaupt?
-  #   contents: Auf dieser Karte kann ich Euch mehr Informationen über das Template geben, und darüber, wie Ihr es nutzen könnte, um Eure eigene Seite zu erstellen. Schaut mal, da ist ein Bild!
-  #   image: images/metaimage.jpg
-  #   image_alt: "Alternativer Bildtext"
