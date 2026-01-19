@@ -9,7 +9,7 @@ In conjunction with the Sörenberger OL Weekend the best junior orienteers from 
 ### Indicative entry form
 [➡️ Link to indicative entry form](https://forms.gle/USyTwhGuQjyxoQmz5)
 ### Bulletin 1 (December 2025)
-[➡️ Link to bulletin 1 📑](https://forms.gle/USyTwhGuQjyxoQmz5)
+[➡️ Link to bulletin 1 📑](/soerenberg2026/documents/JEC2026-Bulletin1.pdf)
 ### Important information regarding embargoed area
 According to Art. 31 of the competition rules of  Swiss Orienteering (Wettkampfordnung) the following rules apply to the embargoed area:
 
