@@ -3,7 +3,7 @@ title: "JEC 2026"
 description: "Junior European Cup 2026 - Switzerland"
 menu: main
 weight: 80
-image: images/banner.jpg
+image: images/banner_jec.jpg
 ---
 In conjunction with the Sörenberger OL Weekend the best junior orienteers from all across Europe will compete in the Junior European Cup. The programme consists of a relay on Friday, an individual sprint race on Saturday and a long distance race on Sunday.
 ### Indicative entry form
