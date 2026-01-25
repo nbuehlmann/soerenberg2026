@@ -3,7 +3,7 @@ languageCode = "de-CH"
 timeZone = "Europe/Zurich"
 title = "Sörenberger OL Weekend"
 theme = "arcana"
-copyright = "© OLV Luzern. 2026"
+copyright = "© OLV Luzern. 2026."
 defaultContentLanguage = "de"
 defaultContentLanguageInSubdir = false
 disableKinds = ['taxonomy', 'term']
@@ -21,7 +21,7 @@ disableKinds = ['taxonomy', 'term']
     [languages.en]
         languageName = "English"
         languageCode = 'en-US'
-        disabled = false
+        disabled = true
         weight = 2
     [languages.fr]
         languageName = "Français"
@@ -29,9 +29,6 @@ disableKinds = ['taxonomy', 'term']
         disabled = true
         weight = 3
 
-[taxonomies]
-    tag = "tags"
-
 [params]
-    description = "Eine responsive Webseiten-Vorlage im Business- und Unternehmensstil."
+    description = "Nationales Orienteeringslauf-Wochenende in Sörenberg LU"
     show_post_dates = false
