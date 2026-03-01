@@ -2,4 +2,5 @@
 title: Neuigkeiten
 menu: main
 weight: 20
+sidebar_right: sidebar1
 ---
