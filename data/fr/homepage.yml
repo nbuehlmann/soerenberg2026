@@ -12,7 +12,7 @@ items:
     - title: Annonce de course
       icon: fa-clipboard
       content: >
-        [➡️ L'annonce de course est en ligne!](/invitation).
+        [➡️ L'annonce de course est en ligne.](/invitation)
     - title: Directives
       icon: fa-clipboard-list
       content: >

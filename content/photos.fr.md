@@ -1,5 +1,5 @@
 ---
-title: "Pictures of the terrain"
+title: "Photos du parcours"
 menu: main
 weight: 70
 ---
