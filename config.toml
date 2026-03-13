@@ -26,7 +26,7 @@ disableKinds = ['taxonomy', 'term']
     [languages.fr]
         languageName = "Français"
         languageCode = 'fr-CH'
-        disabled = true
+        disabled = false
         weight = 3
 
 [params]

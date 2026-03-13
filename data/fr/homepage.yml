@@ -9,18 +9,18 @@ items:
   - type: highlights
     items_per_row: 3
     items:
-    - title: Invitation
+    - title: Annonce de course
       icon: fa-clipboard
       content: >
-        [➡️ The invitation is online!](/invitation).
-    - title: Final details
+        [➡️ L'annonce de course est en ligne!](/invitation).
+    - title: Directives
       icon: fa-clipboard-list
       content: >
-        The final details will be announced 2 weeks prior to the competition.
-    - title: Start lists
+        Les directives seront publiées environ deux semaines avant la compétition.
+    - title: Listes de départ
       icon: fa-list-ol
       content: >
-        The start lists will be published 1 week prior to the competition.
+        Les listes de départ seront publiées environ une semaine avant la compétition sur [swiss orienteering](https://o-l.ch).
   - type: posts
     heading: News
     content_type: posts

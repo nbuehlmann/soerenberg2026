@@ -1,5 +1,5 @@
 ---
-title: "Fotos aus dem Laufgelände"
+title: "Photos du parcours"
 menu: main
 weight: 70
 ---

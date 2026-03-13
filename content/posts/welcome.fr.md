@@ -1,5 +1,5 @@
 ---
-title: Bonjour!
+title: Bienvenue!
 image: images/gesamt.png
 date: "2026-01-19T00:00:00"
 ---

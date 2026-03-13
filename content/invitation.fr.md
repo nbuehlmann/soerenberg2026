@@ -1,8 +1,10 @@
 ---
-title: "Invitation"
-description: "Hier folgt die Ausschreibung (French)."
+title: "Annonce de course"
+description:
 menu: main
 weight: 50
 sidebar_right: sidebar1
 ---
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+### Annonce de course (Version 5, 13.03.2026)
+[➡️ Lien vers l'annonce de course 📑](/documents/Soerenberger-OL-Weekend-Annonce-v5.pdf)
+
