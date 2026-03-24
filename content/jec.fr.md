@@ -10,6 +10,8 @@ In conjunction with the Sörenberger OL Weekend the best junior orienteers from 
 [➡️ Link to indicative entry form](https://forms.gle/USyTwhGuQjyxoQmz5)
 ### Bulletin 1 (December 2025)
 [➡️ Link to bulletin 1 📑](/documents/JEC2026-Bulletin1.pdf)
+### Old map Willbrig (Relay)
+[➡️ Link to old map 📑](/documents/Willbrig.png)
 ### Important information regarding embargoed area
 According to Art. 31 of the competition rules of  Swiss Orienteering (Wettkampfordnung) the following rules apply to the embargoed area:
 
