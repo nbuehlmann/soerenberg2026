@@ -8,6 +8,8 @@ image: images/banner_jec.jpg
 In conjunction with the Sörenberger OL Weekend the best junior orienteers from all across Europe will compete in the Junior European Cup. The programme consists of a relay on Friday, an individual sprint race on Saturday and a long distance race on Sunday.
 ### Indicative entry form
 [➡️ Link to indicative entry form](https://forms.gle/USyTwhGuQjyxoQmz5)
+### Bulletin 2 (April 2026)
+[➡️ Link to bulletin 2 📑](/documents/JEC2026-Bulletin2.pdf)
 ### Bulletin 1 (December 2025)
 [➡️ Link to bulletin 1 📑](/documents/JEC2026-Bulletin1.pdf)
 ### Old map Willbrig (Relay)
