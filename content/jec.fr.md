@@ -6,6 +6,8 @@ weight: 80
 image: images/banner_jec.jpg
 ---
 In conjunction with the Sörenberger OL Weekend the best junior orienteers from all across Europe will compete in the Junior European Cup. The programme consists of a relay on Friday, an individual sprint race on Saturday and a long distance race on Sunday.
+### Bulletin Trainings (August 2026)
+[➡️ Link to bulletin regarding training offers 📑](/documents/JEC2026-Bulletin-Trainings.pdf)
 ### Indicative entry form
 [➡️ Link to indicative entry form](https://forms.gle/USyTwhGuQjyxoQmz5)
 ### Bulletin 2 (April 2026)
