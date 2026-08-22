@@ -10,7 +10,7 @@ items:
     items_per_row: 4
     items:
     - title: Anmeldung
-      icon: fa-person-circle-plus
+      icon: fa-user-plus
       content: >
         [➡️ Die Anmeldung ist jetzt eröffnet.](https://ol-events.ch/races/877)
     - title: Ausschreibung
