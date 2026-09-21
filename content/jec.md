@@ -6,6 +6,11 @@ weight: 80
 image: images/banner_jec.jpg
 ---
 In conjunction with the Sörenberger OL Weekend the best junior orienteers from all across Europe will compete in the Junior European Cup. The programme consists of a relay on Friday, an individual sprint race on Saturday and a long distance race on Sunday.
+### Link to live results
+[➡️ Live results for the relay 🚨](https://www.live.srpoz.ch/)
+
+[➡️ Live results for the sprint and longdistance 🚨](https://o-results.ch)
+
 ### Bulletin 3 (September 2026)
 [➡️ Link to bulletin 3 📑](/documents/JEC2026-Bulletin3.pdf)
 
