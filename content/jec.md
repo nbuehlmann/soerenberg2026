@@ -9,7 +9,7 @@ In conjunction with the Sörenberger OL Weekend the best junior orienteers from 
 ### Live results
 [➡️ Live results for the relay 🚨](https://www.live.srpoz.ch/)
 
-[➡️ Live results for the sprint and longdistance 🚨](https://o-results.ch)
+[➡️ Live results for the sprint and long distance 🚨](https://o-results.ch)
 
 ### Bulletin 3 (September 2026)
 [➡️ Link to bulletin 3 📑](/documents/JEC2026-Bulletin3.pdf)
