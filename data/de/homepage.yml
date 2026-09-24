@@ -9,10 +9,10 @@ items:
   - type: highlights
     items_per_row: 4
     items:
-    - title: Anmeldung
-      icon: fa-user-plus
+    - title: Live Resultate
+      icon: fa-stopwatch
       content: >
-        [➡️ Die Anmeldung ist jetzt eröffnet.](https://ol-events.ch/races/877)
+        [➡️ Link zu den Live-Resultaten](https://o-results.ch)
     - title: Ausschreibung
       icon: fa-clipboard
       content: >
@@ -20,7 +20,7 @@ items:
     - title: Weisungen
       icon: fa-clipboard-list
       content: >
-        Die Weisungen werden ca. zwei Wochen vor dem Wettkampf publiziert.
+        [➡️ Die Weisungen sind jetzt aufgeschaltet.](/documents/Soerenberger-OL-Weekend-Weisungen.pdf)
     - title: Startlisten
       icon: fa-list-ol
       content: >

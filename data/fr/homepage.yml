@@ -9,10 +9,10 @@ items:
   - type: highlights
     items_per_row: 4
     items:
-    - title: Inscription
-      icon: fa-user-plus
+    - title: Live Results
+      icon: fa-stopwatch
       content: >
-        [➡️ L'inscription est maintenant ouverte.](https://ol-events.ch/races/877)
+        [➡️ Liens vers les résultats live:](https://o-results.ch)
     - title: Annonce de course
       icon: fa-clipboard
       content: >
@@ -20,7 +20,7 @@ items:
     - title: Directives
       icon: fa-clipboard-list
       content: >
-        Les directives seront publiées environ deux semaines avant la compétition.
+        [➡️ Les directives de course sont en ligne.](/documents/Soerenberger-OL-Weekend-Directives.pdf)
     - title: Listes de départ
       icon: fa-list-ol
       content: >
