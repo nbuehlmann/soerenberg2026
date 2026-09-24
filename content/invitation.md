@@ -5,8 +5,9 @@ menu: main
 weight: 50
 sidebar_right: sidebar1
 ---
-### Weisungen (Verison 1, 24.09.2026)
+### Weisungen (Version 1, 24.09.2026)
 [➡️ Link zu den Weisungen 📑](/documents/Soerenberger-OL-Weekend-Weisungen.pdf)
+
 [➡️ Preisliste Festwirtschaft Sonntag 📑](/documents/Soerenberger-OL-Weekend-Preisliste-Sonntag.pdf)
 
 
