@@ -11,6 +11,11 @@ In conjunction with the Sörenberger OL Weekend the best junior orienteers from 
 
 [➡️ Live results for the sprint and long distance 🚨](https://o-results.ch)
 
+### Photos
+[JEC-Relay](https://photos.app.goo.gl/prqScUELQ9wE6B3v5)
+[JEC-Sprint](https://photos.app.goo.gl/K5vbmrtjCd18EtUp7)
+[JEC-Long](https://photos.app.goo.gl/ki1HVBWEQUCt99C5A)
+
 ### Bulletin 3 (September 2026)
 [➡️ Link to bulletin 3 📑](/documents/JEC2026-Bulletin3.pdf)
 
