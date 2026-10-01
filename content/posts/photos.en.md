@@ -1,7 +1,7 @@
 ---
 title: Fotos
 image: images/camera.png
-date: "2026-10-01T18:00:00"
+date: "2026-10-02T18:00:00"
 ---
 In den folgenden Alben werden fortlaufend Fotos des Wochenendes aufgeschaltet:
 

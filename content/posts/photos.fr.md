@@ -1,7 +1,7 @@
 ---
 title: Photos
 image: images/camera.png
-date: "2026-10-01T18:00:00"
+date: "2026-10-02T18:00:00"
 ---
 Des photos du week-end seront régulièrement mises en ligne dans les albums suivants :
 
