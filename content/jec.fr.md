@@ -16,6 +16,9 @@ In conjunction with the Sörenberger OL Weekend the best junior orienteers from 
 [JEC-Sprint](https://photos.app.goo.gl/K5vbmrtjCd18EtUp7)
 [JEC-Long](https://photos.app.goo.gl/ki1HVBWEQUCt99C5A)
 
+### Official results relay (02.10.2026)
+[➡️ Official results relay - day 1 📑](/documents/JEC2026-Results-Relay.pdf)
+
 ### Final startlist relay (01.10.2026 23:00)
 [➡️ Final startlist for the relay 📑](/documents/JEC2026-Relay-Startlist.pdf)
 
