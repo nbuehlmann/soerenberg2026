@@ -21,6 +21,10 @@ In conjunction with the Sörenberger OL Weekend the best junior orienteers from 
 [Livelox JEC-Sprint](https://www.livelox.com/Events/Show/204742/Regionaler-Dorf-OL-und-JEC-2026-Sorenberg)
 [Livelox JEC-Long](https://www.livelox.com/Events/Show/204706/Nationaler-OL-JEC2026-Sorenberg)
 
+### Organizers decision regarding GPS tracking for the long distance
+It has been decided that there will be **no GPS tracking** for tomorrows long distance, due to the national competition running in parallel.
+No GPS devices will be handed out. If you would like to track your race, please use your personal GPS watches and use Livelox after the race.
+
 ### Official results sprint (03.10.2026)
 [➡️ Official results sprint - day 2 📑](/documents/JEC2026-Results-Sprint.pdf)
 
