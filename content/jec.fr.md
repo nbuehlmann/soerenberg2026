@@ -25,11 +25,12 @@ In conjunction with the Sörenberger OL Weekend the best junior orienteers from 
 It has been decided that there will be **no GPS tracking** for tomorrows long distance, due to the national competition running in parallel.
 No GPS devices will be handed out. If you would like to track your race, please use your personal GPS watches and use Livelox after the race.
 
-### Official startlist long (03.10.2026)
+### Official startlist long (03.10.2026 21:00)
 [➡️ Final startlist for the long distance 📑](/documents/JEC2026-Long-Startlist.pdf)
 
 ### Official results sprint (03.10.2026)
-[➡️ Official results sprint - day 2 📑](/documents/JEC2026-Results-Sprint.pdf)
+[➡️ Official results sprint - day 2 📑](/documents/JEC2026-Results-Sprint.pdf)<br>
+Jury decision: The legs leading to control 69 were neutralized in the classes W18, W20 and M20.
 
 ### Final startlist sprint (02.10.2026 19:00)
 [➡️ Final startlist for the sprint 📑](/documents/JEC2026-Sprint-Startlist.pdf)
