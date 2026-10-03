@@ -21,6 +21,9 @@ In conjunction with the Sörenberger OL Weekend the best junior orienteers from 
 [Livelox JEC-Sprint](https://www.livelox.com/Events/Show/204742/Regionaler-Dorf-OL-und-JEC-2026-Sorenberg)
 [Livelox JEC-Long](https://www.livelox.com/Events/Show/204706/Nationaler-OL-JEC2026-Sorenberg)
 
+### Official results sprint (03.10.2026)
+[➡️ Official results sprint - day 2 📑](/documents/JEC2026-Results-Sprint.pdf)
+
 ### Final startlist sprint (02.10.2026 19:00)
 [➡️ Final startlist for the sprint 📑](/documents/JEC2026-Sprint-Startlist.pdf)
 
