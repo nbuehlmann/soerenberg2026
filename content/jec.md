@@ -6,10 +6,6 @@ weight: 80
 image: images/banner_jec.jpg
 ---
 In conjunction with the Sörenberger OL Weekend the best junior orienteers from all across Europe will compete in the Junior European Cup. The programme consists of a relay on Friday, an individual sprint race on Saturday and a long distance race on Sunday.
-### Live results
-[➡️ Live results for the relay 🚨](https://www.live.srpoz.ch/)
-
-[➡️ Live results for the sprint and long distance 🚨](https://o-results.ch)
 
 ### Photos
 [JEC-Relay](https://photos.app.goo.gl/prqScUELQ9wE6B3v5)
@@ -21,12 +17,11 @@ In conjunction with the Sörenberger OL Weekend the best junior orienteers from 
 [Livelox JEC-Sprint](https://www.livelox.com/Events/Show/204742/Regionaler-Dorf-OL-und-JEC-2026-Sorenberg)
 [Livelox JEC-Long](https://www.livelox.com/Events/Show/204706/Nationaler-OL-JEC2026-Sorenberg)
 
-### Organizers decision regarding GPS tracking for the long distance
-It has been decided that there will be **no GPS tracking** for tomorrows long distance, due to the national competition running in parallel.
-No GPS devices will be handed out. If you would like to track your race, please use your personal GPS watches and use Livelox after the race.
+### Final results nations ranking (04.10.2026 20:00)
+[➡️ JEC 2026 Team Championship 📑](/documents/JEC2026-Nations-Ranking-Final.pdf)
 
-### Intermediate Nations ranking after sprint (03.10.2026 21:00)
-[➡️ Nations ranking after sprint 📑](/documents/JEC2026-Nations-Ranking-after-Sprint.pdf)
+### Official results long (04.10.2026 20:00)
+[➡️ Official results long - day 3 📑](/documents/JEC2026-Results-Long.pdf)
 
 ### Official startlist long (03.10.2026 21:00)
 [➡️ Final startlist for the long distance 📑](/documents/JEC2026-Long-Startlist.pdf)
